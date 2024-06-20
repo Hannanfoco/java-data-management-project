@@ -1,4 +1,4 @@
-package homework4;
+package socialnetwork;
 
 import java.io.File;
 import java.io.FileNotFoundException;

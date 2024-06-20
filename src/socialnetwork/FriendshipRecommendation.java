@@ -1,4 +1,4 @@
-package homework4;
+package socialnetwork;
 
 public class FriendshipRecommendation implements Comparable<FriendshipRecommendation> {
     private String user;

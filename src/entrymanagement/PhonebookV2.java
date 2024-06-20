@@ -1,4 +1,4 @@
-package homework3;
+package entrymanagement;
 
 import java.util.ArrayList;
 import java.util.Scanner;

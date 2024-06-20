@@ -1,4 +1,4 @@
-package homework4;
+package socialnetwork;
 
 import java.util.*;
 

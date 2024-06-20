@@ -1,4 +1,4 @@
-package homework3;
+package entrymanagement;
 
 public class Entry implements Comparable<Entry> {
     private String surname;

@@ -1,4 +1,4 @@
-package homework2;
+package taskScheduler;
 
 public class Process implements Comparable<Process> {
     private String name;
